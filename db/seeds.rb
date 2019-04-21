@@ -8,7 +8,7 @@
 
 User.create(username: 'Naca', password: 'naca')
 User.create(username: 'Joca', password: 'joca')
-User.create(username: 'Nina', password: 'Nina')
+User.create(username: 'Nina', password: 'nina')
 User.create(username: 'Bidza', password: 'bidza')
 User.create(username: 'Peja', password: 'peja')
 User.create(username: 'Cica', password: 'cica')
